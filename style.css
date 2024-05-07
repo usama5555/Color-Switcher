@@ -1,0 +1,32 @@
+#main_Heading{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.button{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    
+}
+.center{
+    text-align: center;
+}
+#blue{
+    background-color: blue;
+}
+#purple{
+    background-color: purple;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#heading_2{
+    padding-top: 20px;
+    text-align: center;
+}
